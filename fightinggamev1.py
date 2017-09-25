@@ -8,6 +8,6 @@ while enemyhealth > 0:
     if attack == "medium":
         enemyhealth = enemyhealth - 25
 else:
-    print("You Won")
+    print("You Won enemy health is", enemyhealth)
 
 
