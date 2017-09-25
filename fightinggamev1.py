@@ -1,4 +1,4 @@
-print("Welcome to my Fighting Game!")
+print("Welcome to my Game!")
 
 enemyhealth = 100
 while enemyhealth > 0:
